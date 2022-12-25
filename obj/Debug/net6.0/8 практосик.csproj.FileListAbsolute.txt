@@ -1,0 +1,17 @@
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\8 практосик.exe
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\8 практосик.deps.json
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\8 практосик.runtimeconfig.json
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\8 практосик.dll
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\8 практосик.pdb
+C:\Users\c1aye\source\repos\8 практосик\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.csproj.AssemblyReference.cache
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.AssemblyInfoInputs.cache
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.AssemblyInfo.cs
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.csproj.CoreCompileInputs.cache
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.csproj.CopyComplete
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.dll
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\refint\8 практосик.dll
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.pdb
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\8 практосик.genruntimeconfig.cache
+C:\Users\c1aye\source\repos\8 практосик\obj\Debug\net6.0\ref\8 практосик.dll
