@@ -113,7 +113,7 @@ namespace _8_практосик
         public List<User> GetUsers()
         {
             List<User> users;
-            string table = File.ReadAllText("C:\\mpt\\С#\\SpeedTest\\Table.json");
+            string table = File.ReadAllText("C:\\Users\\c1aye\\source\\repos\\8 практосик\\Table.json");
             return JsonConvert.DeserializeObject<List<User>>(table);
         }
         public void Record(string name = "Имя", int SymbolsPerMinute = 0, int SymbolsPerSecond = 0)
@@ -129,12 +129,12 @@ namespace _8_практосик
             {
                 users.Add(user);
                 string json = JsonConvert.SerializeObject(users);
-                File.WriteAllText("C:\\mpt\\С#\\SpeedTest\\Table.json", json);
+                File.WriteAllText("C:\\Users\\c1aye\\source\\repos\\8 практосик\\Table.json", json);
             }
             else
             {
                 string json = JsonConvert.SerializeObject(user);
-                File.WriteAllText("C:\\mpt\\С#\\SpeedTest\\Table.json", json);
+                File.WriteAllText("C:\\Users\\c1aye\\source\\repos\\8 практосик\\Table.json", json);
             }
         }
     }

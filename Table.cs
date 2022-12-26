@@ -12,7 +12,7 @@ namespace _8_практосик
         static public void GetUsers()
         {
             List<User> users;
-            string table = File.ReadAllText("C:\\mpt\\С#\\SpeedTest\\Table.json");
+            string table = File.ReadAllText("C:\\Users\\c1aye\\source\\repos\\8 практосик\\Table.json");
             users = JsonConvert.DeserializeObject<List<User>>(table);
 
             Console.WriteLine("Таблица рекордов");
